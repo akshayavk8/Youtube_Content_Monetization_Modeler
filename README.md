@@ -170,13 +170,12 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Akshayaa Vinod Kumar**  
-Marine Biologist & Data Science Practitioner  
+**Akshayaa V. Kumar**
+Marine Biologist & Data Science Practitioner
 HCL GUVI — Data Science with ML & AI Certification
 
-- 🔗 [LinkedIn](https://linkedin.com/in/akshayavinodkumar)
-- 🐙 [GitHub](https://github.com/akshayavk8)
+[![GitHub](https://img.shields.io/badge/GitHub-akshayavk8-181717?style=flat&logo=github)](https://github.com/akshayavk8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshayavinodkumar)
 
 ---
-
 *This project was completed as part of the GUVI Data Science with ML & AI certification capstone.*
