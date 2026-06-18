@@ -49,5 +49,3 @@ with tab2:
     st.subheader("Top Revenue-Driving Features")
     # show feature importance chart
     # show revenue by category bar chart
-
-!pip install streamlit
